@@ -253,3 +253,4 @@ snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,ho
 20260305,2026-03-05 21:52:15 EST,8dfb368b199ecedf70b8e4c177295658,basketball_wncaab,WNCAAB,2026-03-06T02:30:22Z,Colorado Buffaloes,Kansas Jayhawks,draftkings,DraftKings,2026-03-06T02:51:35Z,h2h,2026-03-06T02:51:35Z,-145,114,
 20260305,2026-03-05 21:52:15 EST,8dfb368b199ecedf70b8e4c177295658,basketball_wncaab,WNCAAB,2026-03-06T02:30:22Z,Colorado Buffaloes,Kansas Jayhawks,betmgm,BetMGM,2026-03-06T02:51:50Z,h2h,2026-03-06T02:51:50Z,-135,105,
 20260305,2026-03-05 21:52:15 EST,8dfb368b199ecedf70b8e4c177295658,basketball_wncaab,WNCAAB,2026-03-06T02:30:22Z,Colorado Buffaloes,Kansas Jayhawks,fanduel,FanDuel,2026-03-06T02:52:04Z,h2h,2026-03-06T02:52:04Z,-140,106,
+20260305,2026-03-05 23:29:35 EST,8dfb368b199ecedf70b8e4c177295658,basketball_wncaab,WNCAAB,2026-03-06T02:30:22Z,Colorado Buffaloes,Kansas Jayhawks,fanduel,FanDuel,2026-03-06T04:19:03Z,h2h,2026-03-06T04:19:03Z,-8000,1400,
